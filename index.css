@@ -88,3 +88,12 @@ a{
     background-size: 100% 120%;
 }
 
+.content-one{
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+}
+.content-one h2{
+    color: #6bc2e6;
+}
+
